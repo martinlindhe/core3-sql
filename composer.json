@@ -1,0 +1,18 @@
+{
+    "name": "martinlindhe/core3-sql",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Lindhe",
+            "email": "martin@ubique.se"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core3\\Sql\\": "src"
+        }
+    }
+}
